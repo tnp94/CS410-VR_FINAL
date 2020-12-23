@@ -33,3 +33,14 @@ Right now there is functionality for the following:
 	Items leash to players position when turn is submitted
 	Eating food
 	Sounds associated with each turn choice
+
+
+Credits for assets used:
+	Sounds:
+		Tyrael - Sword Slice Flesh - 02.wav by SoundFlakes (https://freesound.org/people/SoundFlakes/sounds/492254/)
+		Cut Through Armor / Slice / Clang by SypherZent (https://freesound.org/people/SypherZent/sounds/420675/)
+		Bite Growl effect.wav by AndreAngelo (https://freesound.org/people/AndreAngelo/sounds/246184/)
+		Crunch.wav by MATRIXXX_ (https://freesound.org/people/MATRIXXX_/sounds/348112/)
+		Door Squeak by EminYILDIRIM (https://freesound.org/people/EminYILDIRIM/sounds/536076/)
+		Dungeon Ambiance by plair (https://freesound.org/people/phlair/sounds/388340/)
+		Creepy Dungeon Ambience by DrMinky (https://freesound.org/people/DrMinky/sounds/166187/)
